@@ -1,2 +1,2 @@
-*.txt
 *.pyc
+.DS_Store
