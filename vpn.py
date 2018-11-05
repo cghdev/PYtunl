@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 
 from pytunl import PYtunl
-from docopt import docopt
 import argparse
 from tabulate import tabulate
 import json
