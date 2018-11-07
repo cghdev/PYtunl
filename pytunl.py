@@ -6,7 +6,6 @@ import os
 import platform
 import glob
 import json
-import time
 import getpass
 import subprocess
 
