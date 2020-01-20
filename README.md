@@ -1,6 +1,6 @@
 # PYtunl
 
-## *NOTE:* PYtunl is not longer maintained. The Go version of this program can be used instead: https://github.com/cghdev/gotunl-vpn
+## *NOTE:* PYtunl is no longer maintained. The Go version of this program can be used instead: https://github.com/cghdev/gotunl-vpn
 PYtunl is a command line client for Pritunl written in Python.
 
 At the moment is only supported in MacOS.
